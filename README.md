@@ -58,7 +58,7 @@ From early GPU days to the AI revolution, see what made NVIDIA’s market cap ro
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">Development Workflow</span>
 
 - **Raw Data:** Cleaned historical stock data (1999–2025Q1)
-- **Preprocessing:** Data wrangling in Python & Excel
+- **Preprocessing:** Data wrangling in Excel
 - **Visualization:** Tableau Public for dashboard and charts
 - **Web App:** Custom HTML, CSS, and JS for interactive embedding
 
