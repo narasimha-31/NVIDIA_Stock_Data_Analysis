@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif;">
-An interactive web project visualizing NVIDIA’s stock market journey from 1999 to 2025.<br>
+An interactive web project visualizing NVIDIA’s stock market journey from 1999 to 2025(Q1).<br>
 All charts and dashboards built from real stock data, showcasing trends, spikes, and AI-era growth.
 </p>
 
