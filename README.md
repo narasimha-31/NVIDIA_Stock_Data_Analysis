@@ -67,16 +67,17 @@ From early GPU days to the AI revolution, see what made NVIDIA’s market cap ro
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">References</span>
 
 - [NVIDIA Official Site](https://www.nvidia.com/)
-- [Tableau Public: NVIDIA Dashboard](https://public.tableau.com/)
 - [Yahoo Finance: NVIDIA](https://finance.yahoo.com/quote/NVDA/)
 
 <hr style="border: 1px solid #111111;" />
 
 ### 📸 Screenshots
 
-| Main Dashboard | Sample Chart |
-|----------------|-------------|
-| ![Dashboard](./dashboard.png) | ![Chart](./chart.png) |
+| Main Dashboard |
+|----------------|
+| ![Dashboard](./dashboard.png) |
+ |Sample Chart |
+| ![Chart](./chart.png) |
 
 <hr style="border: 1px solid #111111;" />
 
