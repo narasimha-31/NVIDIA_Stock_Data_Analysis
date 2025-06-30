@@ -11,9 +11,9 @@ All charts and dashboards built from real stock data, showcasing trends, spikes,
 
 <hr style="border: 1px solid #111111;" />
 
-### 🚀 Live Demo
+### Live Demo
 
-👉 [https://your-nvidia-dashboard-link.com](https://your-nvidia-dashboard-link.com)
+👉 https://nvidia1.netlify.app
 
 <hr style="border: 1px solid #111111;" />
 
