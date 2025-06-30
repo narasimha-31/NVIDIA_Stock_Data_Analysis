@@ -28,8 +28,8 @@ From early GPU days to the AI revolution—see what made NVIDIA’s market cap r
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">Key Insights</span>
 
 - 🟩 **Massive rally since 2016:** Stock took off with AI and data center adoption, becoming a tech market leader.
-- 🟩 **Pandemic boom (2020–2021):** All-time highs as gaming, crypto, and AI exploded globally.
-- 🟩 **2023–2024 surge:** Record gains, fueled by generative AI demand and NVIDIA’s dominant chip position.
+- 🟩 **Pandemic boom (2020-2021):** All-time highs as gaming, crypto, and AI exploded globally.
+- 🟩 **2023-2024 surge:** Record gains, fueled by generative AI demand and NVIDIA’s dominant chip position.
 - 🟥 **2008 financial crisis:** Sharp drop as global markets crashed and tech spending stalled.
 - 🟥 **2018 crypto bust:** Price pulled back due to sudden fall in crypto-mining demand for GPUs.
 
