@@ -1,1 +1,1 @@
-It seems like a web project but it's not web is just a piece of tech used to showcase the project the project and the main project is the data cleaning and making the viz from the data and telling a story to the user or client about the data by showing visuals 
+
