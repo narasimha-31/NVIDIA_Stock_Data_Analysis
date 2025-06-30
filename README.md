@@ -39,8 +39,7 @@ From early GPU days to the AI revolution—see what made NVIDIA’s market cap r
 
 - 📈 Interactive Tableau dashboard (filter by year, spot volatility spikes, and more)
 - 📊 Section-wise visualizations for adjusted close, volume, daily range, and more
-- 🌑 Dark NVIDIA-inspired UI with vibrant green highlights
-- 🖱️ Responsive and accessible on all major browsers
+
 
 <hr style="border: 1px solid #111111;" />
 
