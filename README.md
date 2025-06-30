@@ -1,6 +1,5 @@
 <h1 align="center" style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif;">
 <img src="icon.png" alt="NVIDIA Logo" width="24" style="vertical-align:middle; margin-right:8px;" />
-
  NVIDIA Stock Analysis
 </h1>
 
