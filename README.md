@@ -75,7 +75,7 @@ From early GPU days to the AI revolution, see what made NVIDIA’s market cap ro
 
 | Main Dashboard |
 |----------------|
-| ![Dashboard](./dashboard.png) |
+| ![Dashboard](./Nvidashboard.png) |
  |Sample Chart |
 | ![Chart](./chart.png) |
 
