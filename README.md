@@ -21,7 +21,7 @@ All charts and dashboards built from real stock data, showcasing trends, spikes,
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">About the Project</span>
 
 This project explores how <b style="color:#76B900;">NVIDIA</b> became the world’s most valuable tech company, focusing on stock data and interactive visualizations.  
-From early GPU days to the AI revolution—see what made NVIDIA’s market cap rocket past $3.8 trillion in 2025.
+From early GPU days to the AI revolution, see what made NVIDIA’s market cap rocket past $3.8 trillion in 2025.
 
 <hr style="border: 1px solid #111111;" />
 
