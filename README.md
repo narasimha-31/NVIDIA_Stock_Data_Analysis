@@ -8,13 +8,13 @@ All charts and dashboards built from real stock data, showcasing trends, spikes,
 </p>
 
 
-
+<hr style="border: 1px solid #111111;" />
 
 ### 🚀 Live Demo
 
 👉 [https://your-nvidia-dashboard-link.com](https://your-nvidia-dashboard-link.com)
 
-
+<hr style="border: 1px solid #111111;" />
 
 
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">About the Project</span>
