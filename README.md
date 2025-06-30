@@ -13,7 +13,7 @@ All charts and dashboards built from real stock data, showcasing trends, spikes,
 
 ### Live Demo
 
-👉 https://nvidia1.netlify.app
+👉 https://nvidia1.netlify.app/
 
 <hr style="border: 1px solid #111111;" />
 
