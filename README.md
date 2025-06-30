@@ -7,13 +7,15 @@ An interactive web project visualizing NVIDIA’s stock market journey from 1999
 All charts and dashboards built from real stock data, showcasing trends, spikes, and AI-era growth.
 </p>
 
-<hr style="border: 1px solid #111111;" />
+<hr style="border: 1.5px solid #76B900;" />
+
 
 ### 🚀 Live Demo
 
 👉 [https://your-nvidia-dashboard-link.com](https://your-nvidia-dashboard-link.com)
 
-<hr style="border: 1px solid #111111;" />
+<hr style="border: 1.5px solid #76B900;" />
+
 
 <span style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif; font-size:1.4em;">About the Project</span>
 
