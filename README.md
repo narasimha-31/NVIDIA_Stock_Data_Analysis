@@ -1,10 +1,10 @@
 <h1 align="center" style="color:#76B900; font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif;">
-🟩 NVIDIA Stock Analysis Dashboard
+🟩 NVIDIA Stock Analysis
 </h1>
 
 <p align="center" style="font-family:'Handel Gothic','Segoe UI',Arial,Helvetica,sans-serif;">
 An interactive web project visualizing NVIDIA’s stock market journey from 1999 to 2025.<br>
-All charts and dashboards built from real stock data—showcasing trends, spikes, and AI-era growth.
+All charts and dashboards built from real stock data, showcasing trends, spikes, and AI-era growth.
 </p>
 
 <hr style="border: 1px solid #111111;" />
