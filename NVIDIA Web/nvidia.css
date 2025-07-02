@@ -119,7 +119,7 @@ h3 {
   margin-bottom: 10px;
 }
 
-/* Section styling */
+
 section {
   margin-bottom: 60px;
 }
@@ -175,11 +175,10 @@ section {
 
 
 
-/* Responsive container with fixed aspect ratio */
 .viz-box {
   position: relative;
-  width: 96%; /* Slight margin from edges */
-  margin: 20px auto; /* Center and vertical spacing */
+  width: 96%; 
+  margin: 20px auto; 
   height: 65vh;
   max-height: 700px;
   border: 1px solid #76B900;
@@ -266,7 +265,7 @@ section {
   text-align: center;
   padding: 30px 20px;
   font-size: 0.95rem;
-  width: 100%; /* full viewport width */
+  width: 100%; 
   margin: 0;
   box-sizing: border-box;
 }
@@ -310,12 +309,12 @@ section {
   height: 1.5em;
   display: inline-block;
   vertical-align: middle;
-  /* Make black SVG appear white */
+
   filter: invert(1) brightness(1.8);
   transition: filter 0.3s;
 }
 
-/* Hover: NVIDIA green */
+
 .footer-link:hover .footer-icon-img {
   filter: invert(54%) sepia(97%) saturate(749%) hue-rotate(41deg) brightness(1.2);
 }
@@ -333,20 +332,20 @@ section {
   width:4px;
 }
 
-/* Scrollbar background (track) */
+
 ::-webkit-scrollbar-track {
-  background-color: #000; /* pure black */
+  background-color: #000;
 }
 
-/* Scrollbar thumb (draggable bar) */
+
 ::-webkit-scrollbar-thumb {
   background-color: #76B900;
   border-radius: 12px;
 }
 
-/* Optional hover effect for the thumb */
+
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #89cc00; /* slight glow on hover */
+  background-color: #89cc00; 
 }
 
 
@@ -355,7 +354,7 @@ section {
 
 /* DASHBOARD */
 
-/* Desktop + general layout */
+
 .viz-box.dashboard-embed {
   position: relative;
   width: clamp(880px, 97vw, 1600px);
@@ -366,7 +365,7 @@ section {
   box-shadow: 0 0 20px rgba(118, 185, 0, 0.4);
   background: rgba(255, 255, 255, 0.05);
   overflow: hidden;
-  max-width: 1800px;                    /* Allow really wide screens */
+  max-width: 1800px;                   
   max-height: 1200px;
 }
 
@@ -381,7 +380,7 @@ section {
 
 /*footer*/
 
-/* ——— Tooltip bubbles for footer links ——— */
+/* data bubbles for footer links */
 .site-footer .footer-link {
   position: relative;
   overflow: visible; /* allow the bubble to poke out */
@@ -390,7 +389,7 @@ section {
 .site-footer .footer-link::after {
   content: attr(data-title);
   position: absolute;
-  bottom: 100%;            /* place it just above the link */
+  bottom: 100%;            
   left: 50%;
   transform: translateX(-50%) translateY(4px);
   padding: 4px 8px;
