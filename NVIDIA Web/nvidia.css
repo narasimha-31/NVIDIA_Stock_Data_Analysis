@@ -1,4 +1,4 @@
-/* Background setup */
+/* Background*/
 body {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Hide dashboard content by default on small screens */
+/* No dashboard on small screens */
 .mobile-warning {
   display: none;
   background: #0b0b0b;
@@ -23,7 +23,7 @@ body {
   font-family: 'Segoe UI', sans-serif;
 }
 
-/* Show warning and hide everything else on mobile */
+/* Shows warning and hide everything else on mobile */
 @media (max-width: 768px) {
   .mobile-warning {
     display: block;
@@ -35,12 +35,11 @@ body {
 }
 
 
-/* make all elements sizing include padding/borders so %-widths don’t blow out */
+
 html { box-sizing: border-box; }
 *, *::before, *::after { box-sizing: inherit; }
 
 
-/* Wrapping content on top */
 .content-wrapper {
   background: rgba(0, 0, 0, 0.60); /* dark blur overlay */
   padding: 40px;
