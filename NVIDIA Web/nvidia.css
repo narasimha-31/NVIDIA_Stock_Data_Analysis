@@ -104,7 +104,7 @@ h2 {
   box-shadow: 0 2px 18px 0 rgba(0,0,0,0.4);
   max-width: 1200px;
   margin: 40px auto 60px auto;
-  border-left: 6px solid #76B900;   /* NVIDIA green border on the left only */
+  border-left: 6px solid #76B900;  
 }
 
 
@@ -139,25 +139,25 @@ section {
 
 .insights ul, 
 .insights ul ul {
-  list-style: none;         /* Remove all bullets */
-  margin-left: 0;           /* Remove default indents if you want */
-  padding-left: 0;          /* Remove default padding */
+  list-style: none;         
+  margin-left: 0;           
+  padding-left: 0;          
 }
 .insights ul ul {
-  margin-left: 26px;  /* Increase this for more indent; try 26–32px for a good look */
+  margin-left: 26px;  
   padding-left: 0;
 }
 
 
 .arrow-red {
-  color: #ff3b3b;      /* Bright red */
+  color: #ff3b3b;      
   font-size: 1.18em;
   vertical-align: middle;
   margin-right: 4px;
 }
 
 .arrow-green {
-  color: #76B900;      /* NVIDIA green */
+  color: #76B900;      
   font-size: 1.1em;
   vertical-align: middle;
   margin-right: 7px;
@@ -192,7 +192,7 @@ section {
 }
 
 
-/* Force Tableau viz to fill the box */
+
 .viz-box .tableauPlaceholder,
 .viz-box .tableauPlaceholder object {
   position: absolute !important;
@@ -202,11 +202,11 @@ section {
   height: 100% !important;
 }
 
-/* Make Tableau embeds fit in view */
+/* Makes Tableau embeds fit in view */
 .tableauPlaceholder {
   width: 100%;
-  height: 65vh; /* ~65% of viewport height, adjust as needed */
-  max-height: 700px; /* Optional upper limit */
+  height: 65vh; 
+  max-height: 700px; 
   overflow: hidden;
 }
 
