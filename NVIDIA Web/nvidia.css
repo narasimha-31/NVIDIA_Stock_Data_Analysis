@@ -1,4 +1,4 @@
-/* Background*/
+
 body {
   margin: 0;
   padding: 0;
@@ -51,11 +51,11 @@ html { box-sizing: border-box; }
 
 .main-title {
   font-size: 3rem;
-  display: block;         /* make it respect margin:auto */
-  width: max-content;     /* shrink-wrap to just its text */
+  display: block;         
+  width: max-content;    
   margin: 0 auto;
-  color: #76B900;           /* NVIDIA green */
-  text-align: center;       /* center aligned */
+  color: #76B900;           
+  text-align: center;  
   text-shadow:
     0 0 4px rgba(118,185,0,0.6),
     0 0 8px rgba(118,185,0,0.4),
@@ -383,7 +383,7 @@ section {
 /* data bubbles for footer links */
 .site-footer .footer-link {
   position: relative;
-  overflow: visible; /* allow the bubble to poke out */
+  overflow: visible; 
 }
 
 .site-footer .footer-link::after {
