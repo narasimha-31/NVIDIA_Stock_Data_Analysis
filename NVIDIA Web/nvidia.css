@@ -11,6 +11,7 @@ body {
 }
 
 /* No dashboard on small screens */
+/* cannot display these viz on mobile for better understanding*/
 .mobile-warning {
   display: none;
   background: #0b0b0b;
